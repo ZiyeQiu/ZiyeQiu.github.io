@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://ziyeqiu.github.io/sitemap.xml
