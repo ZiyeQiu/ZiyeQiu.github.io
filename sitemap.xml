@@ -10,63 +10,126 @@
   
   <url>
     <loc>http://ziyeqiu.github.io/categories/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
+    <lastmod>2024-01-14T23:51:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ziyeqiu.github.io/categories/hugo/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
+    <loc>http://ziyeqiu.github.io/categories/having-fun/</loc>
+    <lastmod>2024-01-14T23:51:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ziyeqiu.github.io/post/my-first-post/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
+    <loc>http://ziyeqiu.github.io/tags/hiking/</loc>
+    <lastmod>2024-01-14T23:51:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ziyeqiu.github.io/post/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
+    <lastmod>2024-01-14T23:51:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ziyeqiu.github.io/tags/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ziyeqiu.github.io/tags/test/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ziyeqiu.github.io/tags/testing/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ziyeqiu.github.io/categories/testing/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
+    <lastmod>2024-01-14T23:51:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ziyeqiu.github.io/</loc>
-    <lastmod>2024-01-11T23:51:53+08:00</lastmod>
+    <lastmod>2024-01-14T23:51:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20240114/</loc>
+    <lastmod>2024-01-14T23:51:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/categories/job-related/</loc>
+    <lastmod>2024-01-07T23:51:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/tags/market-summary/</loc>
+    <lastmod>2024-01-07T23:51:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20240107/</loc>
+    <lastmod>2024-01-07T23:51:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231217/</loc>
+    <lastmod>2023-12-17T12:29:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231210/</loc>
+    <lastmod>2023-12-10T12:29:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231126/</loc>
+    <lastmod>2023-11-26T12:29:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231119/</loc>
+    <lastmod>2023-11-19T12:29:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231105/</loc>
+    <lastmod>2023-11-05T12:29:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231029/</loc>
+    <lastmod>2023-10-29T12:29:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231022/</loc>
+    <lastmod>2023-10-22T12:29:53+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ziyeqiu.github.io/post/20231015/</loc>
+    <lastmod>2023-10-15T12:29:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
